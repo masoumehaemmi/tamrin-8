@@ -6,7 +6,7 @@ def sum_fraction(x,y):
 def mul_fraction(x,y):
     result={}
     result["s"] = x ["s"] * y ["s"]
-    result["m"] = x["s"] * y["s"]
+    result["m"] = x["m"] * y["m"]
     return result
 def sub_fraction(x,y):
     result={}
